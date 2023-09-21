@@ -1,4 +1,5 @@
-# 이 코스를 개발한 전문가
+# 모두를 위한 파이썬 
+##### 이 코스를 개발한 전문가
 - Charles R. Severance
 - Michigan 대학에서 학생들을 지도합니다.
 - Coursera의 인기 강의인 ‘Python for Everybody’를 통해 전 세계의 학생들을 만나고 있습니다.
